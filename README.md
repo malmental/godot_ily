@@ -1,2 +1,2 @@
 # godot_ily
-to keep track of my jankest of a game 
+dat bad day that jankest of a game was born
